@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Hilbero</h1>
+<h1 align="center">Hi, I'm Joshua Hilbero</h1>
 <h3 align="center">💻 A passionate Software Developer from Panabo City</h3>
 
 ---
@@ -11,7 +11,7 @@
 
 ---
 
-### 🎓 Education
+###  Education
 -  Junior High School – Maryknoll College Of Panabo Inc.  
 -  Senior High School – Maryknoll College Of Panabo Inc. (STEM)  
 -  1st Year College – University of Mindanao (BSIT 2024–2025)  
@@ -35,6 +35,12 @@
 ####  2nd Year
 -  **Simple Inventory System (Python)**  
 -  **Electric Node System (PHP)**  
+
+---
+
+### Certificate
+
+-**Certiport Java Proficient**
 
 ---
 
