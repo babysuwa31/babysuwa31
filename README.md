@@ -58,7 +58,4 @@
 ---
 
 ---
-
-<p align="center">
-✨ Keep Learning, Keep Building ✨
 </p>
