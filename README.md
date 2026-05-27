@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Hilbero</h1>
-<h3 align="center">💻 A passionate Software Developer from the Philippines</h3>
+<h3 align="center">💻 A passionate Software Developer from Panabo City</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 -  Date of Birth: May 31, 2006  
 -  Age: 19  
 -  Currently studying at **Davao Del Norte State College** (BSIT - 2nd Year, 2025-2026)  
-- 💡 A passionate software developer focused on building useful and efficient systems  
+-  A passionate software developer focused on building useful and efficient systems  
 
 ---
 
