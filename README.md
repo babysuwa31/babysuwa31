@@ -40,7 +40,7 @@
 
 ### Certificate
 
--**Certiport Java Proficient**
+- Certiport Java Proficient
 
 ---
 
